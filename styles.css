@@ -1,0 +1,39 @@
+.data {
+    text-align: center;
+    margin: 40px;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.container {
+    margin: 30px;
+    padding: 20px;
+    text-align: center;
+    /* border-style: solid; */
+    border-radius: 10px;
+}
+
+input, label, button {
+    margin: 20px;
+}
+
+input {
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+button {
+    background-color: dodgerblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+form {
+    background-color: darkgray;
+    border-radius: 10px;
+}
+
+img {
+    margin: 20px;
+}

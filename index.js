@@ -5,7 +5,7 @@ const city = document.querySelector("input");
 function setCity() {
     url.searchParams.set('q', city.value);
     if (city.value == "") {
-        p.innerText = "please enter a city"
+        p.innerText = "Please Enter a City Name"
     } else {
     getData();
     };
